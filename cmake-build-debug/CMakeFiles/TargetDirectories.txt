@@ -1,0 +1,3 @@
+C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/CMakeFiles/Saper.dir
+C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\p1003\Desktop\AGH\C++\Saper
+-- Found SFML 2.5.1 in C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug

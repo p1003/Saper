@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Saper"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\SFML\;CMake Files\SFML\lib\;CMake Files\SFML\lib\cmake\;CMake Files\SFML\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Saper">
+				<Option output="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Saper.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 Saper"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Saper/fast">
+				<Option output="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Saper.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 Saper/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/p1003/Desktop/AGH/C++/Saper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/InfoBar.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/InfoBar.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/Menu.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/Menu.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/Visualizer.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/DrawableClasses/Visualizer.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/Block.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/Block.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/Board.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/Board.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/SaperGame.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/GameClasses/SaperGame.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/config.h">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/main.cpp">
+			<Option target="Saper"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLStaticTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLStaticTargets-release.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/p1003/Desktop/AGH/C++/Saper/SFML/lib/cmake/SFML/SFMLStaticTargets.cmake">
+			<Option virtualFolder="CMake Files\SFML\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
