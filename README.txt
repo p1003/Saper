@@ -1,4 +1,4 @@
-Witam, chciałbym przedstawić mój projekt pod tytułem Saper.
+Chciałbym przedstawić mój projekt pod tytułem Saper.
 
 Jest to w pełni funkcjonalna wersja gry.
 Występują pojedyncze bugi, którymi zajmę się w wolnej chwili.
